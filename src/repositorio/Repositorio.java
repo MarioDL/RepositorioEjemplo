@@ -20,8 +20,6 @@ public class Repositorio {
         System.out.println("hello");
         
         System.out.println("otra cosa");
-        
-        System.out.println("dddd");
     }
     
 }
