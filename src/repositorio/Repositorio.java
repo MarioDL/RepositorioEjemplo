@@ -15,13 +15,7 @@ public class Repositorio {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("hola");
-        
-        System.out.println("hello");
-        
-        System.out.println("otra cosa");
-        
-        System.out.println("ffff");
+        System.out.println("Mingo");
     }
     
 }
