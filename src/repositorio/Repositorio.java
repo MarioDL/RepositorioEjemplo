@@ -16,7 +16,13 @@ public class Repositorio {
      */
     public static void main(String[] args) {
         int variable=0;
+        String letras="xD";
         
+        System.out.println("hola");
+        
+        System.out.println("hello");
+        
+        System.out.println("otra cosa");
         System.out.println(variable);
     }
     
