@@ -15,7 +15,7 @@ public class Repositorio {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        String letras="";
+        String letras="xD";
         
         System.out.println("hola");
         
